@@ -1,3 +1,7 @@
+<div align='center'>
+   <img align="center" alt="header  pic" height="300" width="1000" src="https://media.licdn.com/dms/image/D4D12AQFZwPiZzkwBXQ/article-cover_image-shrink_600_2000/0/1664661128391?e=2147483647&v=beta&t=z2oeO-7_EbVwljj9GqwOG23wpA3BR21AxGZBZyM68LQ"><br/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Rowena Pacadalhin</h1>
 <h3 align="center">A passionate system developer from Philippines</h3>
 
